@@ -18,7 +18,7 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://alex-tq.github.io/robot-checker/",
+  "homepage": "https://alex-tq.github.io/robot-checker",
   "eslintConfig": {
     "extends": [
       "react-app",
