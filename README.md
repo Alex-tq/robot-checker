@@ -1,4 +1,4 @@
-# (Click here to see live website)[https://alex-tq.github.io/robot-checker/]
+# [Click here to see live website](https://alex-tq.github.io/robot-checker/)
 
 
 
